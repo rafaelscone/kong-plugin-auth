@@ -1,0 +1,1 @@
+https://luarocks.org/modules/rafaelscone/kong-plugin-kong-plugin-auth
